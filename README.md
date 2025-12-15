@@ -1,4 +1,4 @@
-# Sample-Superstore-Analysis-Report
+# Superstore-Analysis-Report
 
 
 ## Reporting Tools

@@ -7,6 +7,7 @@ Report Type: Sales Performance Dashboard
 
 ## Overview
 This dashboard provides a comprehensive analysis of the Superstore’s sales performance, profitability, cost of goods sold (COGS), and product distribution across states, cities, and regions.
+Attached to this is a Screenshot of the Dashboard:
 
 ## Key Highlights
 - Total Sales: 11,488,062  
